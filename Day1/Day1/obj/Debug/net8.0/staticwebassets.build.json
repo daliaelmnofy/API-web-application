@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "PZJTPvhqaWQdwBuDHx6e+367jIuZPgdxKVyGMudOBvk=",
+  "Source": "Day1",
+  "BasePath": "_content/Day1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Day1\\wwwroot",
+      "Source": "Day1",
+      "ContentRoot": "E:\\ITI\\APIs\\Day1-2\\Day1\\Day1\\wwwroot\\",
+      "BasePath": "_content/Day1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
